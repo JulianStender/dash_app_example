@@ -128,7 +128,7 @@ app.layout = html.Div([
     #Layout for Task 2
     html.Div([
         html.H1(
-            children = "______________________________________________________________________",
+            children = "__________________________________________________",
             style = {'text-align': 'center'}
         ),  
         html.H1(
